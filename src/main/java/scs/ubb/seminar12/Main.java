@@ -71,7 +71,6 @@ public class Main {
         thread4.start();
 
         thread3.join();
-        thread4.join();
     }
 
 
